@@ -1,1 +1,2 @@
-# TALLER DE PROGRAMACION_28
+# 28_LuisTasayco
+## Talle de Programacion
